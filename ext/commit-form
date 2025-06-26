@@ -1,0 +1,7 @@
+feat(board): 게시판 글 작성 기능 추가
+fix(auth): 로그인 시 세션 저장 오류 수정
+docs(readme): 프로젝트 실행 방법 추가
+style: 코드 정리 및 들여쓰기 수정
+refactor(api): 게시글 조회 로직 리팩토링
+test: 유닛 테스트 추가 - UserService
+chore: .gitignore에 .env 추가
